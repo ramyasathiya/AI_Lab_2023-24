@@ -48,8 +48,8 @@ print(minimax(0, 0, True, scores,treeDepth))
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/78615c07-5935-4a5d-a228-5ef36cf76e14)
 
+![ex3AI](https://github.com/user-attachments/assets/4fcac1ee-859a-457f-a1ce-21620c371952)
 
 
 
