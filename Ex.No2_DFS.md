@@ -48,9 +48,10 @@ dfs(visited, graph, '5')
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/19ed8838-cf97-4ff8-8a2a-0712fa671acc)
 
 
+
+![ex2ai](https://github.com/user-attachments/assets/f24066ee-9da2-4a64-99e2-e09863779569)
 
 
 ### Result:
