@@ -59,7 +59,8 @@ Step 10 : Obtain the plan for given problem.<br>
 
 ### Output/Plan:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/19095876-63b9-40b4-a446-dcfb7df0b51c)
+
 
 
 ### Result:
