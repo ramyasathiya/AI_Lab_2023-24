@@ -87,6 +87,8 @@ with gr.Blocks(css=".gradio-container {font-family: 'Segoe UI', sans-serif;}") a
 demo.launch()
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/7eefe874-ce34-4e50-a810-6cd18ae95486)
+
 
 
 
